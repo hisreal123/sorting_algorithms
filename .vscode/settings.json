@@ -2,6 +2,7 @@
   "files.associations": {
     "*.jsx": "javascriptreact",
     "stddef.h": "c",
-    "sort.h": "c"
+    "sort.h": "c",
+    "list": "c"
   }
 }
